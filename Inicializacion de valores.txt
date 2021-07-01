@@ -1,0 +1,1 @@
+http://localhost:8080/?KNearest=1&GRUPO=0&EDAD=0&SEXO=0&DOSIS=0&UBIGEO=0
